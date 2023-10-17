@@ -1,19 +1,16 @@
-# netflix_clone
+# NETFLIX CLONE RESPONSIVE UI
 
-A new Flutter project created with FlutLab - https://flutlab.io
+A new Flutter project
 
-## Getting Started
+## PICTURE
 
-A few resources to get you started if this is your first Flutter project:
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+![net1](https://github.com/Juihibi/netflix_clone/assets/142254238/1b9564b5-4268-43fd-beea-38c611ac3751)
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+![net2](https://github.com/Juihibi/netflix_clone/assets/142254238/a92f4c4f-9f34-4cfb-8a9a-a2b772b81edc)
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+
+![net3](https://github.com/Juihibi/netflix_clone/assets/142254238/01bbd400-6819-4949-9831-ee86a4760218)
+
+
